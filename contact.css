@@ -5,7 +5,7 @@ body, html {
   
 .bg {
     /* The image used */
-    background-image: src="https://image.shutterstock.com/image-photo/digital-composite-contact-me-text-260nw-610452548.jpg";
+    background-image: url("https://image.shutterstock.com/image-photo/digital-composite-contact-me-text-260nw-610452548.jpg");
   
     /* Full height */
     height: 100%; 
