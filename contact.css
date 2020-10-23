@@ -5,7 +5,7 @@ body, html {
   
 .bg {
     /* The image used */
-    background-image: src="https://autismmommylife.com/wp-content/uploads/2020/03/Contact-Me.png";
+    background-image: src="https://image.shutterstock.com/image-photo/digital-composite-contact-me-text-260nw-610452548.jpg";
   
     /* Full height */
     height: 100%; 
@@ -15,3 +15,4 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
   }
+
