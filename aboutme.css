@@ -1,4 +1,17 @@
 img {  
-    width: 150px;  
+    width: 175px;  
     height: 150px; 
 } 
+
+.bgimage {
+    /* The image used */
+    background-image: url("https://www.visitlakegeorge.com/sites/default/files/styles/1600x1000/public/images/LGArea-FallHomePage20.jpg?h=4226fdba&itok=FNgtIcA3");
+    /* I do not own rights to this image */
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
