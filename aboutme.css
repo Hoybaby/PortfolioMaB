@@ -48,3 +48,7 @@ footer {
     background-color: rgb(88, 125, 206);
     color: black;
 }
+
+span {
+    font-size: 12px
+}
