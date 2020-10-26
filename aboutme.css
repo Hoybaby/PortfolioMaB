@@ -4,7 +4,7 @@
     float: left;
 } 
 body {
-    background-color: grey;
+    background-color: lightgrey;
 }
 
 .bgimage {
@@ -35,7 +35,7 @@ body {
 }
 
 .lightblue {
-    background-color: lightblue;
+    background-color: rgb(206, 231, 240);
 }
 
 footer {
