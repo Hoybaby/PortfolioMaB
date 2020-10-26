@@ -50,4 +50,44 @@
 .nav {
   background-color: lightblue;
 }
-  
+
+.container {
+  padding-top: 7%;
+  padding-bottom: 50%;
+  z-index: 9999;
+}
+  .containerone {
+    opacity: 85%;
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-image: url("https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/118302146/original/81b1c9ba55531eaadf260b56ab9b789f0e6fe641/full-stack-developer-server-orchestration-expert.png");
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+  }
+
+header {
+      width: 100%;
+      z-index: 100;
+}
+.mainpage {
+  text-align: left;
+  position: absolute;
+  top: 67%;
+  right: 25% 
+}
+
+h3 {
+  font-weight: bolder;
+  font-size: 250%;
+  background-color: rgb(88, 125, 206);
+}
+
+h2 {
+  border: black;
+  text-align: center;
+} 
