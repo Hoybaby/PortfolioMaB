@@ -42,3 +42,8 @@ nav {
 span {
     font-size: 12px
 }
+
+.container {
+padding-top: 7%;
+padding-bottom: 50%;
+}
