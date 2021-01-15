@@ -8,21 +8,24 @@
 }
 
 .bg {
+    background-color:  rgba(7, 7, 7, 0.897);
+}
+/* .bg { */
     /* The image used */
-    background-image: url("https://wonderfulengineering.com/wp-content/uploads/2014/01/HD-Technology-Wallpaper-5.jpg");
+    /* background-image: url("https://wonderfulengineering.com/wp-content/uploads/2014/01/HD-Technology-Wallpaper-5.jpg"); */
     /* do not own rights for this image */
     /* Full height */
-    height: 25%; 
+    /* height: 25%;  */
   
     /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
+    /* background-position: center; */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+  /* } */
 
-  .white {
+  /* .white {
       color: white
-  }
+  } */
 
   footer {
     width: 100%;
@@ -42,8 +45,32 @@ nav {
 span {
     font-size: 12px
 }
-
-.container {
-padding-top: 7%;
-padding-bottom: 50%;
+.blackText {
+    color: black; 
 }
+/* .container { */
+/* padding-top: 7%; */
+/* padding-bottom: 50%; */
+/* } */
+
+/* .containerone {
+    opacity: 85%;
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-image: url("https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/118302146/original/81b1c9ba55531eaadf260b56ab9b789f0e6fe641/full-stack-developer-server-orchestration-expert.png");
+    position: fixed;
+    top: 0;
+    left: 0;
+    /* min-width: 100%; */
+    /* min-height: 100%; */
+    /* z-index: -1;
+  } */ 
+
+  .textWhite {
+    color: white;
+}
+
+  .containerone {
+      background-color: rgba(12, 12, 12, 0.897);
+  }
